@@ -19,7 +19,7 @@ export type Country = {
   flag: string;
   flags: { png: string; svg: string };
   region: Region;
-  subRegion: string;
+  subregion: string;
   capital: string;
   population: number;
   topLevelDomain: string[];
